@@ -26,6 +26,13 @@ Here's an example of an in-game radar using the custom files:
 Here's a comparison between the game's default map and the simple radar's version:
 ![alt text](./samples/radar-sample2.jpg "Comparison between default and simple radar")
 
+## Custom Game Modes
+
+A few custom game modes will also be placed in your CSGO `cfg` folder when running this installer.
+- Free For All: To play it, open your console and type `exec play_freeforall`;
+- Custom Comp (Allows unbalanced teams and odd number of players): To play it, open your console and type `exec play_custom_comp`;
+- 1v1: To play it, open your console and type `exec play_1v1`;
+
 ---
 
 ## Instalation
